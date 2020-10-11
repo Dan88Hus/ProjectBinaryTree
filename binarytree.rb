@@ -10,7 +10,6 @@ class Node
   end
 end
 
-# Data structure that holds nodes and organizes them in the form of a balanced binary search tree
 class Tree
   attr_accessor :root
 
